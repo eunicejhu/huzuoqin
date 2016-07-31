@@ -4,7 +4,7 @@ var gulp = require('gulp'),
 var conf = {
 	scss: {
 		src: "src/main/webapp/source/scss/**/*.scss",
-		dest: "src/main/webapp/buildDest/css",
+		dest: "grails-app/assets/stylesheets/buildDest",
 		watch: ["src/main/webapp/source/scss/**/*"]
 	}
 };
