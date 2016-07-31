@@ -15,7 +15,9 @@ gulp.task("default", ["sass"], function(){
 
 gulp.task('sass', function () {
   return gulp.src(conf.scss.src)
-    .pipe(sass().on('error', sass.logError))
+    .pipe(sass({
+    	includePaths: require('node-normalize-scss').includePaths
+    }).on('error', sass.logError))
     .pipe(gulp.dest(conf.scss.dest));
 });
  
