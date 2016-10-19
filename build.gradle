@@ -10,8 +10,8 @@ buildscript {
     }
 }
 
-version "0.1"
-group "huzuoqin"
+version ""
+group ""
 
 apply plugin:"eclipse"
 apply plugin:"idea"
