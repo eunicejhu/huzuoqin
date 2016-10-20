@@ -17,11 +17,13 @@
     <div class="nav-wrapper container">
       <a id="logo-container" href="#" class="brand-logo">HU ZUOQIN</a>
       <ul class="right hide-on-med-and-down">
-        <li><a href="https://eunicejhu.github.io">Blog</a></li>
+        <li><a target="_blank" href="http://dxxzq.info:8181">Demo</a></li>
+        <li><a target="_blank" href="https://eunicejhu.github.io">Blog</a></li>
       </ul>
 
       <ul id="nav-mobile" class="side-nav">
-        <li><a href="https://eunicejhu.github.io">Blog</a></li>
+        <li><a target="_blank" href="http://dxxzq.info:8181">Demo</a></li>
+        <li><a target="_blank" href="https://eunicejhu.github.io">Blog</a></li>
       </ul>
       <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="material-icons">menu</i></a>
     </div>
@@ -33,10 +35,10 @@
         <br><br>
         <h1 class="header center teal-text text-lighten-2">HU ZUOQIN</h1>
         <div class="row center">
-          <h5 class="header col s12 light">A open-minded Full Stack Web Develper with 2 years experience</h5>
+          <h5 class="header col s12 light">A open-minded Full Stack Web Developer with 2 years experience</h5>
         </div>
         <div class="row center">
-          <a href="https://github.com/eunicejhu" id="download-button" class="btn-large waves-effect waves-light teal lighten-1">See more projects</a>
+          <a href="https://github.com/eunicejhu" target="_blank" id="download-button" class="btn-large waves-effect waves-light teal lighten-1">See more projects</a>
         </div>
         <br><br>
 
